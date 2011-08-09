@@ -1,7 +1,7 @@
 var util = require('util');
 var EventEmitter = require('events').EventEmitter;
 
-var Hash = require('traverse/hash');
+var Hash = require('hashish');
 var DNode = require('dnode');
 var Lazy = require('lazy');
 
